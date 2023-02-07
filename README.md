@@ -39,5 +39,5 @@ It's important to setup the connection variables (host, user, password, database
 ## 7. To run the ETL_Cars.py script follow these steps:
   - **1.** Open the terminal or command prompt.
   - **2.** Navigate to the directory where the script is located.
-  - **3.** Type "python scriptname.py" (without quotes) and press Enter.
->Note: Replace "scriptname" with the actual name of your script. If the Python executable is not in your system PATH, you may need to specify the full path to the Python executable, such as "/usr/bin/python scriptname.py"
+  - **3.** Type "python ETL_Cars.py.py and press Enter.
+>Note: If the Python executable is not in your system PATH, you may need to specify the full path to the Python executable, such as "/usr/bin/python ETL_Cars.py.py"
