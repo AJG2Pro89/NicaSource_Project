@@ -29,7 +29,7 @@ Import, clean, and transform a car sales CSV files, then load it into MySQL data
 ## 4. Configure the .env file.
 It's important to setup the connection variables (host, user, password, database) and save the file to connect with mysql database
 
-## 5. In the 'datasets' folder is located de CSV file named 'car_sales.scv'.
+## 5. In the 'datasets' folder is located de CSV file named 'car_sales.csv'.
 ## 6. The 'ETL_Cars.py' script contains the following functions:
   - **_Extract() Function:** This function have a filename paramenter to extract the data from the file and load it into a dataframe.
   - **_Clean() Function:** This function have a dataframe parameter to clean, tranform an return the dataframe.
